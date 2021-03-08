@@ -38,8 +38,8 @@
    ![alt text](https://github.com/forhadict/laravel_ecommerce/blob/main/laravel_pic/cart.PNG?raw=true)
    
 ### Checkout Page
-   ![alt text](https://github.com/forhadict/laravel_ecommerce/blob/main/laravel_pic/checkout.PNG?raw=true)
    ![alt text](https://github.com/forhadict/laravel_ecommerce/blob/main/laravel_pic/checkout1.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/laravel_ecommerce/blob/main/laravel_pic/checkout.PNG?raw=true)
    
 ## Backend
 
